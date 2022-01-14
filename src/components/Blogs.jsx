@@ -173,7 +173,7 @@ const Section = styled.section`
 
     .title {
       h2 {
-        font-size: 2.4rem;
+        font-size: 2.1rem;
         color: var(--primary-color);
       }
     }
