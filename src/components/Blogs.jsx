@@ -180,6 +180,12 @@ const Section = styled.section`
     .blogs {
       gap: 2rem;
       grid-template-columns: 1fr;
+
+      .blog {
+        img {
+          margin: 1rem 0;
+        }
+      }
     }
   }
 `;
