@@ -17,9 +17,10 @@ export default function Blogs() {
         <h2>Czy Polska była imperium kolonialnym?</h2>
         <h5>
           <em>
-            "Wierz mi i wiedz, że poza arystokracją nie ma w Polsce nic: ani
-            zdolności, ani światłych umysłów, ani poświęcenia. Nasz trzeci stan
-            to bzdura; nasi chłopi to maszyny. My tylko stanowimy Polskę."
+            "Wierz mi i&nbsp;wiedz, że poza arystokracją nie ma w&nbsp;Polsce
+            nic: ani zdolności, ani światłych umysłów, ani poświęcenia. Nasz
+            trzeci stan to bzdura; nasi chłopi to maszyny. My tylko stanowimy
+            Polskę."
           </em>
         </h5>
         <p>Zygmunt Krasiński - poeta</p>

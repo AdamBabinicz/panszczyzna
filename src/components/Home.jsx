@@ -29,14 +29,14 @@ export default function Home() {
       <Modal show={modal} close={Toggle} title="Pamiętnik chłopa-nauczyciela.">
         <p>
           Nie mogłem tego nigdy zapomnieć, jak często powracającego ze dworu od
-          pana widziałem mego ojca mającego wyrwane długie włosy z głowy,
-          podbite oczy, nie rachując kułaków w boki, pięścią lub nogą
-          odebranych, a szczególnie raz jeden, w roku 1809, gdzie mój ojciec był
-          na ten czas sołtysem wsi, przez włościan wybranym, nie był przeto
-          obowiązanym odrabiać pańszczyzny, jaka na niego inwentarzem powinności
-          przez rząd nałożona, a tym bardziej odrabiać daremszczyzn, tak
-          nazwanych dlatego, gdyż te tylko przez arbitralność pana dzierżawcy
-          wymagane były”.
+          pana widziałem mego ojca mającego wyrwane długie włosy z&nbsp;głowy,
+          podbite oczy, nie rachując kułaków w&nbsp;boki, pięścią lub nogą
+          odebranych, a&nbsp;szczególnie raz jeden, w&nbsp;roku 1809, gdzie mój
+          ojciec był na ten czas sołtysem wsi, przez włościan wybranym, nie był
+          przeto obowiązanym odrabiać pańszczyzny, jaka na niego inwentarzem
+          powinności przez rząd nałożona, a&nbsp;tym bardziej odrabiać
+          daremszczyzn, tak nazwanych dlatego, gdyż te tylko przez arbitralność
+          pana dzierżawcy wymagane były”.
         </p>
         <br />
         <p>

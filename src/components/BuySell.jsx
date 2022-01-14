@@ -15,25 +15,27 @@ export default function BuySell() {
               Chłopska <span>niedola</span>
             </h2>
             <p>
-              "Nuncjusz papieski, przebywający w Rzeczypospolitej w latach
-              1669–1671, a zatem w okresie panowania Michała Korybuta
-              Wiśniowieckiego, ze współczuciem relacjonował położenie włościan.
-              Z kolei Gaspar de Tande, który przybył do Polski wraz z królową
-              Ludwiką Marią, stwierdził, że szlachta traktuje chłopów jak
-              niewolników, mieszczan zaś jedynie jako rzemieślników, de facto im
-              również odmawiając miana odrębnego stanu. Uważał on przy tym, że
-              zaobserwowane przez niego podziały nie są zgodne z duchem
-              Ewangelii.
+              "Nuncjusz papieski, przebywający w&nbsp;Rzeczypospolitej
+              w&nbsp;latach 1669–1671, a&nbsp;zatem w&nbsp;okresie panowania
+              Michała Korybuta Wiśniowieckiego, ze&nbsp;współczuciem
+              relacjonował położenie włościan. Z&nbsp;kolei Gaspar
+              de&nbsp;Tande, który przybył do&nbsp;Polski wraz z&nbsp;królową
+              Ludwiką Marią, stwierdził, że&nbsp;szlachta traktuje chłopów jak
+              niewolników, mieszczan zaś jedynie jako rzemieślników,
+              de&nbsp;facto im również odmawiając miana odrębnego stanu. Uważał
+              on przy tym, że&nbsp;zaobserwowane przez niego podziały nie są
+              zgodne z&nbsp;duchem Ewangelii.
               <p>
-                Jeszcze dalej poszedł w swych rozważaniach nadworny lekarz Jana
-                III Sobieskiego Bernard O’Connor. Porównał on z przesadą niedolę
-                chłopską do sytuacji czarnych niewolników przewożonych na
-                statkach do kolonii angielskich. Przy czym O’Connor był
-                Irlandczykiem, więc siłą rzeczy nie darzył swoich sąsiadów
-                sympatią i nie zdawał sobie sprawy z faktu, że pańszczyzna w
-                Polsce była liczona nie od głowy, lecz od gospodarstwa. W
-                związku z tym chłop mógł oddelegować na pańskie pole synów lub
-                parobków, a samemu zajęć się własną ziemią."
+                Jeszcze dalej poszedł w&nbsp;swych rozważaniach nadworny lekarz
+                Jana III Sobieskiego Bernard O’Connor. Porównał on
+                z&nbsp;przesadą niedolę chłopską do sytuacji czarnych
+                niewolników przewożonych na&nbsp;statkach do kolonii
+                angielskich. Przy czym O’Connor był Irlandczykiem, więc siłą
+                rzeczy nie darzył swoich sąsiadów sympatią i&nbsp;nie zdawał
+                sobie sprawy z&nbsp;faktu, że pańszczyzna w&nbsp;Polsce była
+                liczona nie od głowy, lecz od gospodarstwa. W&nbsp;związku
+                z&nbsp;tym chłop mógł oddelegować na pańskie pole synów lub
+                parobków, a&nbsp;samemu zajęć się własną ziemią."
               </p>
             </p>
             <br />
@@ -53,22 +55,23 @@ export default function BuySell() {
             <p>
               <p>
                 "Odwiedzający Rzeczpospolitą obcokrajowcy dziwili się dychotomii
-                ustrojowej i społecznej państwa polsko-litewskiego. Z jednej
-                strony zwracali oni uwagę na szerokie przywileje szlachty, które
-                odbierali jako uprawnienia republikańskie, z drugiej zaś
-                podkreślali niewolę polskiego chłopa. W Rzeczypospolitej
-                kontrast między tymi stanami był wyjątkowo duży, gdyż w innych
-                krajach szlachta nie miała aż takiego wpływu na władzę
-                królewską.
+                ustrojowej i&nbsp;społecznej państwa polsko-litewskiego.
+                Z&nbsp;jednej strony zwracali oni uwagę na szerokie przywileje
+                szlachty, które odbierali jako uprawnienia republikańskie,
+                z&nbsp;drugiej zaś podkreślali niewolę polskiego chłopa.
+                W&nbsp;Rzeczypospolitej kontrast między tymi stanami był
+                wyjątkowo duży, gdyż w&nbsp;innych krajach szlachta nie miała aż
+                takiego wpływu na władzę królewską.
               </p>
               Dzieci wychowywane na głuchej wsi, gdzie wszystko podporządkowane
-              jest władzy Pana, z dala od tego, co budzić może idee życia
-              społecznego, gdzie szlachta nie ma pojęcia o republikanizmie.
-              Jeżeli przypadek sprowadzi kogoś pod ich dach, będzie to człowiek
-              bądź niższej kondycji, schlebiający ich poczuciu władzy, bądź też
-              wyżej stojący w drabinie społecznej, a wówczas nauczyć się mogą
-              jedynie czołgania u jego nóg. Młody Polak nie zna powinności. Nie
-              uważa się za cząstkę wszystkiego, lecz jedynie za ośrodek tego, co
+              jest władzy Pana, z&nbsp;dala od tego, co budzić może idee życia
+              społecznego, gdzie szlachta nie ma pojęcia o&nbsp;
+              republikanizmie. Jeżeli przypadek sprowadzi kogoś pod ich dach,
+              będzie to człowiek bądź niższej kondycji, schlebiający ich
+              poczuciu władzy, bądź też wyżej stojący w&nbsp;drabinie
+              społecznej, a&nbsp;wówczas nauczyć się mogą jedynie czołgania
+              u&nbsp;jego nóg. Młody Polak nie zna powinności. Nie uważa się
+              za&nbsp;cząstkę wszystkiego, lecz jedynie za&nbsp;ośrodek tego, co
               go otacza."
             </p>
             <br />
@@ -87,25 +90,26 @@ export default function BuySell() {
               Wewnętrzny <span>bunt</span> wobec pana
             </h2>
             <p>
-              "Obserwując wieś, niektórzy z nich [obcokrajowcy] pokusili się o
-              rys psychologiczny polskiego chłopa. Prawne uregulowania to jedno,
-              ale życie na wsi i codzienne zachowanie w obliczu niekorzystnego
-              położenia to zupełnie inna kwestia. Zdaniem zagranicznych
-              obserwatorów polskich włościan charakteryzowała w XVIII wieku
-              obojętność oraz apatia. Ich osobiste przywiązanie do pana
-              pozbawiało ich impulsów do tego, aby pracować efektywnie. Nie
-              mając widoków na zysk, chłopi wykonywali wszystkie czynności
-              niechętnie.
+              "Obserwując wieś, niektórzy z&nbsp;nich [obcokrajowcy] pokusili
+              się o&nbsp;rys psychologiczny polskiego chłopa. Prawne
+              uregulowania to jedno, ale życie na wsi i&nbsp;codzienne
+              zachowanie w&nbsp;obliczu niekorzystnego położenia to zupełnie
+              inna kwestia. Zdaniem zagranicznych obserwatorów polskich włościan
+              charakteryzowała w&nbsp;XVIII wieku obojętność oraz apatia. Ich
+              osobiste przywiązanie do pana pozbawiało ich impulsów do tego, aby
+              pracować efektywnie. Nie mając widoków na zysk, chłopi wykonywali
+              wszystkie czynności niechętnie.
             </p>
             <p>
-              „Ręka jego leniwie naciska pług, a słońce dokona sporej części
-              swej codziennej wędrówki, zanim dojdzie do końca bruzdy. Jeżeli
-              narzędzie jakim wykonuje pracę, zepsuje się, nie dokona on żadnej
-              naprawy” – notował Vautrin. Chłop nie był zdolny do wykazywania
-              inicjatywy, ponieważ nie został tego nauczony. Dokładne
-              wykonywanie zadań nie leżało ani w jego naturze, ani w jego
-              interesie, gdyż mogłoby się skończyć na podwyższeniu norm
-              wszystkim poddanym, co ściągnęłoby na niego nienawiść otoczenia."
+              „Ręka jego leniwie naciska pług, a&nbsp;słońce dokona sporej
+              części swej codziennej wędrówki, zanim dojdzie do końca bruzdy.
+              Jeżeli narzędzie jakim wykonuje pracę, zepsuje się, nie dokona on
+              żadnej naprawy” – notował Vautrin. Chłop nie był zdolny do
+              wykazywania inicjatywy, ponieważ nie został tego nauczony.
+              Dokładne wykonywanie zadań nie leżało ani w&nbsp;jego naturze, ani
+              w&nbsp;jego interesie, gdyż mogłoby się skończyć na podwyższeniu
+              norm wszystkim poddanym, co ściągnęłoby na niego nienawiść
+              otoczenia."
             </p>
             <br />
             <p>

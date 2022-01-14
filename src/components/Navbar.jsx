@@ -57,13 +57,13 @@ export default function Navbar() {
               Ksiądz pana wini, pan księdza,
               <br /> A nam prostym zewsząd nędza.
               <br /> Urzędnik, wójt, szołtys, pleban,
-              <br /> Z tych każdy chce być nad nim pan.
+              <br /> Z&nbsp;tych każdy chce być nad nim pan.
               <br /> Temu daj geś, temu kokosz,
-              <br /> Zać więc z nimi mała rozkosz?”
+              <br /> Zać więc z&nbsp;nimi mała rozkosz?”
               <br /> A przedsię na tłokę robić?!
               <br /> Czasem proszą, czasem chcą bić.
               <br /> Sprawnie ją nazwali tłoką, <br />
-              Bo tam czasem i grzbiet stłuką.
+              Bo tam czasem i&nbsp;grzbiet stłuką.
             </p>
             <br />
             <p>
@@ -79,12 +79,13 @@ export default function Navbar() {
             title="Gospodarstwo - poradnik gospodarki ziemiańskiej"
           >
             <p>
-              Kmieć naprzód posłuszeństwo panu powinien, a iżby mu dobry
-              przykład urzędnik z włodarzem z siebie dał, a ci, co mu rozkażą,
-              ma z pilnością dojźrzeć tego, aby tak było: bo nie na rozkazaniu,
-              ale na dojźrzeniu każda rzecz należy, aby uczyniono. Gdzie nie
-              posłucha, dom zamknąć: gdzie nie wynidzie, chłostę, cztery plagi
-              przez gołe ciało, i znowu odrobić kazać.
+              Kmieć naprzód posłuszeństwo panu powinien, a&nbsp;iżby mu dobry
+              przykład urzędnik z&nbsp;włodarzem z&nbsp;siebie dał, a&nbsp;ci,
+              co mu rozkażą, ma z&nbsp;pilnością dojźrzeć tego, aby tak było: bo
+              nie na rozkazaniu, ale na dojźrzeniu każda rzecz należy, aby
+              uczyniono. Gdzie nie posłucha, dom zamknąć: gdzie nie wynidzie,
+              chłostę, cztery plagi przez gołe ciało, i&nbsp;znowu odrobić
+              kazać.
             </p>
             <br />
             <p>

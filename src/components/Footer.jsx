@@ -27,9 +27,9 @@ export default function Footer() {
           <img src={logo} alt="Footer Logo" />
           <p>
             Szlachta miała też bardziej wyrafinowane metody podporządkowywania
-            sobie chłopstwa. Jednym z wynalazków epoki była <b>propinacja</b> –
-            przywilej szlachecki zakładający monopol na czerpanie zysków ze
-            sprzedaży alkoholu chłopom.
+            sobie chłopstwa. Jednym z&nbsp;wynalazków epoki była
+            <b> propinacja</b> – przywilej szlachecki zakładający monopol na
+            czerpanie zysków ze&nbsp;sprzedaży alkoholu chłopom.
           </p>
           {/* <div className="mail-container">
             <input type="email" placeholder="Enter Email" />
