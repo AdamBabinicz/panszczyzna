@@ -22,7 +22,7 @@ export default function Home() {
           chłopskiej naszę wynosi.” <br />
           <em> Stanisław Leszczyński - król</em>
         </p>
-        <button onClick={() => Toggle()}>
+        <button className="btn" onClick={() => Toggle()}>
           <Button text="Więcej" icon={<RiGroupLine />} />
         </button>
       </div>
@@ -113,6 +113,10 @@ const Section = styled.section`
       }
       p {
         font-size: 5vw;
+      }
+      .btn {
+        margin-top: 9rem;
+        outline: none;
       }
     }
   }
