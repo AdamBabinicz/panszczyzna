@@ -116,7 +116,6 @@ const Section = styled.section`
       }
       .btn {
         margin-top: 9rem;
-        outline: none;
       }
     }
   }
