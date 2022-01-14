@@ -55,7 +55,7 @@ export default function Blogs() {
                 {/* <SlantedCard /> */}
                 {/* </div>
               <div> */}
-                <h2>{project.title}</h2>
+                <h3>{project.title}</h3>
                 <div className="para">
                   {project.tags &&
                     project.tags.map((tag, tagIndex) => (
@@ -173,14 +173,17 @@ const Section = styled.section`
 
     .title {
       h2 {
-        font-size: 2.1rem;
+        font-size: 2.4rem;
         color: var(--primary-color);
-        margin-bottom: 1rem;
       }
     }
     .blogs {
       gap: 2rem;
       grid-template-columns: 1fr;
+
+      h3 {
+        margin-bottom: 1rem;
+      }
 
       .blog {
         img {
