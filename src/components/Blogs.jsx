@@ -175,6 +175,7 @@ const Section = styled.section`
       h2 {
         font-size: 2.1rem;
         color: var(--primary-color);
+        margin-bottom: 1rem;
       }
     }
     .blogs {
