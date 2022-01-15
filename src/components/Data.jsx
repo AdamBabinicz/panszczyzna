@@ -5,9 +5,8 @@ export const Projects = [
     tags: ["🦆", "🐂", "🐮", "🧄"],
     paragraph:
       "tego ostatniego króla Piasta uchwalono w latach 1346-47 statuty wiślickie dla terenu Małopolski i piotrkowskie dla Wielkopolski, ograniczające wolność osobistą kmieci przez ustanowienie prawa, że w ciągu roku wioskę bez zgody pana może opuścić co najwyżej dwóch kmieci...",
-    codeLink:
-      "poddanstwo_panszczyzna_ciemna_karta_polskiej_historii_jan_wasiewicz_drobne_poprawki.pdf",
-    projectLink: "https://pl.wikipedia.org/wiki/Król_chłopów",
+    codeLink: "https://pl.wikipedia.org/wiki/Król_chłopów",
+    projectLink: "",
     projectlinkText: "Więcej",
   },
   {
@@ -18,7 +17,7 @@ export const Projects = [
       "w 1518 r. została zabrana chłopom z dóbr prywatnych możliwość skarżenia się na panów do sądów królewskich. Tym samym szlachta uzyskała ius vitae et necis, prawo życia i śmierci nad swymi poddanymi, które – głównie na wskutek oświeceniowej krytyki, ale też ze względu na niepokoje na Ukrainie – zostało jej odebrane, a właściwie, będąc bardziej dokładnym, sama sobie odebrała, dopiero w 1768 r. W 1520 r. Zygmunt Stary zaaprobował żądanie szlachty, aby chłopi pracowali na pańskim jeden dzień tygodniowo.",
     codeLink:
       "https://hrabiatytus.pl/2019/07/14/kim-byl-krol-dla-polskich-chlopow",
-    projectLink: "https://pl.wikipedia.org/wiki/Zagrodnik",
+    projectLink: "",
     projectlinkText: "Więcej",
   },
   {
@@ -27,9 +26,9 @@ export const Projects = [
     tags: ["🐰", "🐑", "🌱"],
     paragraph:
       "w 1543 odebrano prawo opuszczenia wsi bez zgody pana nawet tylko jednemu chłopu. Nastąpiło ostateczne przypisanie chłopa do ziemi (słynne glebae adscriptum). Odebrano także chłopom prawa wykupywania się z poddaństwa. ",
-    codeLink: "https://encyklopedia.pwn.pl/haslo/chalupnicy;4007843.html",
-    projectLink:
+    codeLink:
       "https://historia.org.pl/2009/10/04/rzeczpospolita-w-xvi-i-xvii-wieku-czasy-swietnosci-czy-upadku",
+    projectLink: "",
     projectlinkText: "Więcej",
   },
   //   {
