@@ -191,9 +191,14 @@ const Footr = styled.footer`
       margin: 2rem 1rem;
       flex-direction: column-reverse;
       gap: 1.5rem;
+
       ul {
         flex-direction: column;
         gap: 1rem;
+
+        li {
+          margin-bottom: 2rem;
+        }
       }
     }
   }
