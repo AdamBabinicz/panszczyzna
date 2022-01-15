@@ -223,6 +223,10 @@ const Nav = styled.nav`
       ul {
         flex-direction: column;
         gap: 1rem;
+
+        li {
+          margin-bottom: 1.5rem;
+        }
       }
       .login-btn {
         flex-direction: column;
